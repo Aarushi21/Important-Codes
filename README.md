@@ -1,3 +1,5 @@
 # Important-Codes
 
-### Python Scripts - 5
+### Python Scripts - 7
+
+#### 2 Searching Algo - Interpolation,Linear
